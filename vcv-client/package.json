@@ -1,5 +1,5 @@
 {
-  "name": "vcv-client",
+  "name": "dynamic-cv",
   "version": "0.0.1-SNAPSHOT",
   "scripts": {
     "ng": "ng",
