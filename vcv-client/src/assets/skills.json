@@ -4,13 +4,20 @@
             "name": "Languages",
             "skills": [
                 {
-                    "name": "Python",
+                    "name": "Java",
                     "level": "Advanced",
                     "experience": [
                         "Professionally: I have worked in 4 web applications using Python as a backend mainly in Flask, I also used this language in a project where I had to automate some processes.",
                         "Non-professionally: I have worked in a few project that you can see in the Projects area."
                     ]
                 },
+              {
+                "name": "JavaScript/Node js",
+                "level": "Competent",
+                "experience": [
+                  "Professionally I worked a in the Control Panel Project. I had to implement some functions to handle the layout of the graphs in the Pentaho Dashboard."
+                ]
+              },
                 {
                     "name": "TypeScript",
                     "level": "Competent",
@@ -19,13 +26,7 @@
                         "Non-professionally: I have worked in two projects that you can see in the Projects area, in particular, this website."
                     ]
                 },
-                {
-                    "name": "JavaScript",
-                    "level": "Competent",
-                    "experience": [
-                        "Professionally I worked a in the Control Panel Project. I had to implement some functions to handle the layout of the graphs in the Pentaho Dashboard."
-                    ]
-                },
+
                 {
                     "name": "Java",
                     "level": "Basic knowledge",

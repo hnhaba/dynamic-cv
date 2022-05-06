@@ -44,13 +44,31 @@
   <mat-sidenav class="mat-elevation-z8">
     <button mat-button class="menu-button">
       <mat-icon>home</mat-icon>
-      <span>Home</span>
+      <span><a routerLinkActive="active-list-item"routerLink="home" class="w3-bar-item w3-button">Home</a></span>
     </button>
+
     <button mat-button class="menu-button">
       <mat-icon>person</mat-icon>
-
-      <span>Profile</span>
+      <span><a routerLinkActive="active-list-item" routerLink="about-me" class="w3-bar-item w3-button">Profile</a></span>
     </button>
+
+    <button mat-button class="menu-button">
+      <mat-icon>code</mat-icon>
+      <span><a routerLinkActive="active-list-item" routerLink="skills" class="w3-bar-item w3-button">Skills</a></span>
+    </button>
+
+    <button mat-button class="menu-button">
+      <mat-icon>cases</mat-icon>
+      <span><a routerLinkActive="active-list-item" routerLink="experience" class="w3-bar-item w3-button">Experiences</a></span>
+    </button>
+
+    <button mat-button class="menu-button">
+      <mat-icon>folder</mat-icon>
+      <span><a routerLinkActive="active-list-item" routerLink="experience" class="w3-bar-item w3-button">Projects</a></span>
+    </button>
+
+
+
     <button mat-button class="menu-button">
       <mat-icon>info</mat-icon>
       <span>About</span>
